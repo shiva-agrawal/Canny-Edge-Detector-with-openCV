@@ -15,5 +15,3 @@ For testing of the algorithm, a video stream of city roads is taken and live edg
 * block diagram.jpg - description of each stage of canny edge detector process
 * results.gif - video result
 
-## References:
-* [Canny Edge Detection - Literature](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
